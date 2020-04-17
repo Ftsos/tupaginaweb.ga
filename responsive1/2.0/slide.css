@@ -1,0 +1,80 @@
+.container {
+
+width: 100%;
+height: auto;
+
+
+
+}
+ 
+.cuatro {
+
+width: 100%;
+}
+
+
+.cinco {
+
+   width: 100%;
+}
+
+
+
+#tituloinicio {
+
+color: #ffffff;
+font: sans-serif;
+font-weight: 350
+
+}
+
+
+.elslide {
+
+	width: 97%;
+
+   box-sizing: border-box;
+}
+
+
+.elbody {
+	 width: 100%;
+	box-sizing: border-box;
+ background: #499bea;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+
+
+
+.parrafo {
+
+  /* Alineacion del texto*/
+text-align: center;
+color: #ffffff;
+font: Sans-serif;
+font-weight: 200;
+width: 95%;
+height: auto;
+
+
+
+
+}
+
+
+@media screen and (max-width: 538px){
+ #tituloinicio {
+
+  	font-size: 23px;
+
+  }
+
+  .elslide {
+ 	width: 100%
+	
+ }
+
+ }
