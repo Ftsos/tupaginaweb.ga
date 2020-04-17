@@ -1,3 +1,25 @@
+.container {
+
+width: 100%;
+height: auto;
+
+
+
+}
+ 
+.cuatro {
+
+width: 100%;
+}
+
+
+.cinco {
+
+   width: 100%;
+}
+
+
+
 #tituloinicio {
 
 color: #ffffff;
@@ -11,25 +33,26 @@ font-weight: 350
 
 
 .elbody {
+	 width: 97%;
+	box-sizing: border-box;
  background: #499bea;
   align-items: center;
   justify-content: center;
-  width: 1330px;
-  height: 400px;
-
+  overflow-x: hidden;
 }
 
 
 
 
 .parrafo {
+
   /* Alineacion del texto*/
 text-align: center;
 color: #ffffff;
 font: Sans-serif;
 font-weight: 200;
-width: 1100px;
-height: 120px;
+width: 95%;
+height: auto;
 
 }
 
